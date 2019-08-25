@@ -1,24 +1,94 @@
 {
   "users": [
     {
-      "username": "tsuyu",
+      "username": "Jihyo",
       "password": "onceortwice",
       "photos": [
-        "https://i.pinimg.com/736x/43/6a/f9/436af91fd180638a1f2b345f4b720d80.jpg"
+        "https://static.asiachan.com/Jihyo.full.153002.jpg"
       ],
-      "description": "i love dancing",
-      "numTokens": 69,
-      "likes": ["jimin"]
+      "description": "Leader, Main Vocalist",
+      "numTokens": 12,
+      "likes": ["Someone who I can show my true self to; Someone I can be most comfortable with."]
     },
     {
-      "username": "jimin",
+      "username": "Nayeon",
       "password": "onceortwice",
       "photos": [
-        "https://i.pinimg.com/736x/43/6a/f9/436af91fd180638a1f2b345f4b720d80.jpg"
+        "https://static.asiachan.com/Im.Nayeon.full.100006.jpg"
       ],
-      "description": "i love dancing",
+      "description": "Lead Vocalist, Lead Dancer, Center",
+      "numTokens": 47,
+      "likes": ["I don’t have a particular ideal type, but… Someone trustworthy and dependable; Someone who can take care of me well; Someone who can handle technology well"]
+    }
+        {
+      "username": "Jeongyeon",
+      "password": "onceortwice",
+      "photos": [
+        "https://static.asiachan.com/Yoo.Jeongyeon.full.149649.jpg"
+      ],
+      "description": "Lead Vocalist",
+      "numTokens": 62,
+      "likes": ["Someone who makes me feel comfortable; Someone funny who can amuse me."]
+    }
+    {
+      "username": "Momo",
+      "password": "onceortwice",
+      "photos": [
+        "https://static.asiachan.com/Hirai.Momo.full.153004.jpg"
+      ],
+      "description": "Main Dancer, Vocalist, Rapper",
+      "numTokens": 96,
+      "likes": ["Someone who eats well (but not overweight); Someone who loves JokBal (Pig’s feet dish)"]
+    }
+    {
+      "username": "Sana",
+      "password": "onceortwice",
+      "photos": [
+        "https://static.asiachan.com/Minatozaki.Sana.full.137972.jpg"
+      ],
+      "description": "Vocalist",
+      "numTokens": 29,
+      "likes": ["Someone who treats his parents well. Someone who works hard in his career; Someone professional"]
+    }
+    {
+      "username": "Mina",
+      "password": "onceortwice",
+      "photos": [
+        "https://static.asiachan.com/Myoui.Mina.full.163572.jpgg"
+      ],
+      "description": "Main Dancer, Vocalist",
+      "numTokens": 24,
+      "likes": ["Someone who is kind, well-mannered, and playful; Someone who can lead me; Someone decisive."]
+    }
+    {
+      "username": "Dahyun",
+      "password": "onceortwice",
+      "photos": [
+        "https://static.asiachan.com/Kim.Dahyun.full.153000.jpg"
+      ],
+      "description": "Lead Rapper, Vocalist",
+      "numTokens": 65,
+      "likes": ["There’s too many…but someone who’s dependable like a father; Someone nice to his parents; Someone who loves me a lot"]
+    }
+    {
+      "username": "Chaeyoung",
+      "password": "onceortwice",
+      "photos": [
+        "https://static.asiachan.com/Son.Chaeyoung.full.169356.jpg"
+      ],
+      "description": "Main Rapper, Vocalist",
       "numTokens": 69,
-      "likes": ["tsuyu"]
+      "likes": ["Someone who takes care of me well; Someone who loves me a lot; Someone who dresses well."]
+    }
+    {
+      "username": "Tzuyu",
+      "password": "onceortwice",
+      "photos": [
+        "https://static.asiachan.com/Tzuyu.full.37277.jpg"
+      ],
+      "description": "Lead Dancer, Vocalist, Visual, Maknae",
+      "numTokens": 70,
+      "likes": ["Someone who understands the importance of filial piety; Someone who loves me more; Someone who likes puppies; Someone who eats well; Someone who can approach me first"]
     }
   ]
 }
